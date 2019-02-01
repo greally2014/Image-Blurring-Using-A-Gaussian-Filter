@@ -1,1 +1,1 @@
-# image-blurring-using-fourrier-transforms
+# image-blurring-using-gaussian-filter
